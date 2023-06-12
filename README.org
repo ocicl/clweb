@@ -1,0 +1,10 @@
+* clweb
+
+A literate programming system for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/plotnick/clweb.git   |
+| commit  | 2dc9346  |
+| systems | clweb |
+|---------+-------------------------------------------|
+
